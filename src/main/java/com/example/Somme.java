@@ -1,5 +1,4 @@
 package com.example;
-
 public class Somme {
     public static int sommeTableau(int[] tableau) {
         int somme = 0;
